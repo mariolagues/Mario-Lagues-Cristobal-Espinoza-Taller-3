@@ -1,0 +1,50 @@
+PR001|Plataforma de E-commerce|admin1
+PR002|Sistema de Inventario|admin2
+PR003|Aplicación Móvil de Reservas|admin3
+PR004|Plataforma de E-commerce|admin1
+PR005|Sistema de Inventario|admin2
+PR006|Aplicación Móvil de Reservas|admin3
+PR007|Plataforma de E-commerce|admin1
+PR008|Sistema de Inventario|admin2
+PR009|Aplicación Móvil de Reservas|admin3
+PR010|Plataforma de E-commerce|admin1
+PR011|Sistema de Inventario|admin2
+PR012|Aplicación Móvil de Reservas|admin3
+PR013|Plataforma de E-commerce|admin1
+PR014|Sistema de Inventario|admin2
+PR015|Aplicación Móvil de Reservas|admin3
+PR016|Plataforma de E-commerce|admin1
+PR017|Sistema de Inventario|admin2
+PR018|Aplicación Móvil de Reservas|admin3
+PR019|Plataforma de E-commerce|admin1
+PR020|Sistema de Inventario|admin2
+PR021|Aplicación Móvil de Reservas|admin3
+PR022|Plataforma de E-commerce|admin1
+PR023|Sistema de Inventario|admin2
+PR024|Aplicación Móvil de Reservas|admin3
+PR025|Plataforma de E-commerce|admin1
+PR026|Sistema de Inventario|admin2
+PR027|Aplicación Móvil de Reservas|admin3
+PR028|Plataforma de E-commerce|admin1
+PR029|Sistema de Inventario|admin2
+PR030|Aplicación Móvil de Reservas|admin3
+PR031|Plataforma de E-commerce|admin1
+PR032|Sistema de Inventario|admin2
+PR033|Aplicación Móvil de Reservas|admin3
+PR034|Plataforma de E-commerce|admin1
+PR035|Sistema de Inventario|admin2
+PR036|Aplicación Móvil de Reservas|admin3
+PR037|Plataforma de E-commerce|admin1
+PR038|Sistema de Inventario|admin2
+PR039|Aplicación Móvil de Reservas|admin3
+PR040|Plataforma de E-commerce|admin1
+PR041|Sistema de Inventario|admin2
+PR042|Aplicación Móvil de Reservas|admin3
+PR043|Plataforma de E-commerce|admin1
+PR044|Sistema de Inventario|admin2
+PR045|Aplicación Móvil de Reservas|admin3
+PR046|Plataforma de E-commerce|admin1
+PR047|Sistema de Inventario|admin2
+PR048|Aplicación Móvil de Reservas|admin3
+PR049|Plataforma de E-commerce|admin1
+PR050|Sistema de Inventario|admin2

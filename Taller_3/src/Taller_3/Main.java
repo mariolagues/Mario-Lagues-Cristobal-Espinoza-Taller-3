@@ -1,4 +1,6 @@
 package Taller_3;
+//Mario Lagues - 21974580K - ICCI
+//Cristobal Espinoza - 217356121 - ICCI
 
 import java.io.File;
 import java.io.FileNotFoundException;
